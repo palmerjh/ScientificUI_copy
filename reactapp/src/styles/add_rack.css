@@ -1,0 +1,49 @@
+.buttonRow
+{
+    margin-top:20px;
+
+}
+.buttonRow Table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.formRow
+{
+    width: 100%;
+}
+.inputRow
+{
+    width:100%;
+}
+.tableRow
+{
+    margin-top:10px;
+}
+.dashboardRow {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.submitButtonRow
+{
+    width:100%;
+    margin-top:10px;
+}
+.formTitle
+{
+    text-align: center;
+}
+.inputRow{
+    padding-top:5px;
+}
+.add-margin-left
+{
+    margin-left:8px;
+}
+.add-margin-bottom
+{
+    padding-bottom:8px;
+}

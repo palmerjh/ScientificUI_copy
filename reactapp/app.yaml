@@ -1,0 +1,10 @@
+service: sciui
+runtime: nodejs
+api_version: 1
+threadsafe: true
+env: flex
+resources:
+  memory_gb: 2.0
+
+env_variables:
+  REACT_APP_FLASK_URL: https://sciflask-dot-openag-v1.appspot.com

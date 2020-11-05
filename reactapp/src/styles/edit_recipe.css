@@ -1,0 +1,47 @@
+.buttonRow
+{
+    margin-top:20px;
+}
+.formRow
+{
+    width: 100%;
+    margin-top:10px;
+}
+.inputRow
+{
+    width:100%;
+}
+.tableRow
+{
+    margin-top:10px;
+}
+.dashboardRow {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+.submitButtonRow
+{
+    width:100%;
+    margin-top:10px;
+}
+.formTitle
+{
+    text-align: center;
+}
+
+.table td {
+    vertical-align: middle;
+}
+.selectCell {
+    width: 200px;
+}
+.valueCell {
+    width: 75px;
+}
+.envCell {
+    width: 300px;
+}
+
+

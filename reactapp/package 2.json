@@ -1,0 +1,41 @@
+{
+  "name": "reactapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bootstrap": "^4.3.1",
+    "plotly.js": "^1.47.3",
+    "rc-slider": "^8.6.9",
+    "react": "^16.8.3",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-cookie": "^3.1.2",
+    "react-csv-reader": "^1.2.2",
+    "react-dom": "^16.8.6",
+    "react-gsap": "^1.2.0",
+    "react-plotly": "^1.0.0",
+    "react-plotly.js": "^2.3.0",
+    "react-rating": "^1.6.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^2.1.8",
+    "react-select": "^2.4.3",
+    "reactstrap": "^7.1.0",
+    "universal-cookie": "^3.1.0"
+  },
+  "scripts": {
+    "fix-memory-limit": "cross-env LIMIT=2048 increase-memory-limit",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

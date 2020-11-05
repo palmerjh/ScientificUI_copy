@@ -1,0 +1,27 @@
+service: sciflask
+runtime: python
+env: flex
+api_version: 1
+threadsafe: true
+runtime_config:
+  python_version: 3
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: /app/service_account.json
+  GCLOUD_REGION: us-central1
+  ADMIN_USERNAME: admin
+  ADMIN_PASSWORD: Bozo8?sASSes
+  VIEW_ONLY_USERNAME: openag
+  VIEW_ONLY_PASSWORD: Dragon58?hunk
+  PYTHONPATH: /app:/env
+  FLASK_APP: /app/main.py
+
+# python libs are automatically loaded from the requirements.txt file
+
+entrypoint: gunicorn -b :$PORT main:app
+
+handlers:
+- url: /static
+  static_dir: static
+- url: /.*
+  script: main.app

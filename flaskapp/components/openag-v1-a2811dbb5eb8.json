@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "openag-v1",
+  "private_key_id": "a2811dbb5eb8f2c695a4389804f4098cdd3600cc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCy70yOiIuvFCIz\nRHxkFaT9ivYC6CD9fqwOlztZ1Mlbq/nUCXGsuvW/HD9CmwoFHRaycyxvR0rtJfjT\nONE53/k0w2ble1WKP66o4xHl2EQiuXgj3AubpXExov6uL5Pk1be03moNDQJiDsDc\ntnz7zG46VW/v13V8g1MzFPtDwcLz/3xp9QTM5QAugs7FQWVDYfbA0iGlyoEFcGMl\naeYgzF19vNjk92hzP/i6qLkyTXhKfC7Yeoj0sVX8rcKpS087ASk/GAUqcA9MBwwY\nrTolffLarHlj5zXwCwonay2V42i4Cdti5P2O35/Z7n1GgU4f3+dtWlyJfXp6Mu9C\nWF2AvoeVAgMBAAECggEACS7t42zPmnMylCYCKlLQDnEo0hpewxPSucb6NVCN6wYH\nAuJfMqm/vgixmHYDjCKjjRILKETk7AnkXNbQKiO8EwCqUcHEMJ23FZTd0MmKKawS\nJej/sYPKrOz8HC117isnzAEUOUo/IpA2Rr2Y6YVi7NyAq7MHpRXKWddMU/xoSIRw\nrioG6GQOiQZ/tTFRmIOjkIclLnncN3bisD4Y3ZB0pvjR9uGOkCGjpDMaU7HPhhKl\nSorJ9zt9Uhz9RbCHQjj4e4eptGZTlmTgqMDsjoAovjdPLzmfuHvvDQrGS4JICB5q\ndjBEleGTt9bzDnWCdDaV0JgJERAoE/3psoTYzTJMwQKBgQDpFuDsNtd/XC/lpQ9C\n0HXaAX6SS5Cw9P3XuHHDXNX1RpiOwY0xA10B58vSRz9hnrDHq48JC81NuyiUuDId\niYyJOK1El0dr4cTMT4VBkhEZGJs0hoPbGQ+fxoqoRU7MY6fAbCwkiU9GAwJoXH33\n4LoWzIB3AMuEVME7B0ljtKxzIQKBgQDEhcC188lQLiZA8Ymj9v7UZBdXDxnU1aTN\n7+WYMVkRmzrmQ9/tQJsrqDjXop/wZWD4zMkPCQNZFAUrTWX+hwGRQmtrXRRRT/cM\nGKXflD75nr91AKRlX3nLpn52wYYSAU/VH7DCVEndSjfIPTKSDZiqI/bOgLl8W2hd\nsoy5odI59QKBgQCrxRhr+t5EFQOXEFR2wHiY95D27ojqXyDR4DK17awe3K+ARFJw\nVDIuPUuO4sJqhi9wdZUq7W+WYN4++p6z9bGDTikh6vnPHsmQZumksKe4/tEhnB9/\nTrCc5gs4hhrTtHzi6NR++FFbHsyfa8nI6es48euZxxQzqOHdRjlnKLYNAQKBgDpy\nWQ0EMxQglYntC/VyyPkbx4FB4XnWDEyfE1Z/HrFIzGydNSTXeQ6z2ivvlselLwDv\nzsAk+xTsClmFjFb1ifbMnSvyI8/HC39SeUqUSWJt3x0KEtp/WbbCjov9JEWIlFib\nMzOoY8tnfk2UPc0INCYtygJCcGfWu6RaLNYslVxdAoGAM2CZuF9zWs12g7m0q0G8\nra1CjoT2GKLF63Qr62zwo3UxRPwxE5KjkzewghVw33V95iZ2XHAWnOVQw6eibGz5\n2WFBCOuzZb+Y+nkuRdcY6inPUeqo17MwrfvE1wF8dDMRg62dO/fPBxErfoskwwK8\nze9OjalHdhDJGtHGC+ee8EM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "openag-v1-service@openag-v1.iam.gserviceaccount.com",
+  "client_id": "114487298203575620017",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/openag-v1-service%40openag-v1.iam.gserviceaccount.com"
+}

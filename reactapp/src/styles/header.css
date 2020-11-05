@@ -1,0 +1,23 @@
+.header-row
+{
+    width: 100%;
+}
+.pageNavHeader
+{
+    background-color: #2c3e50;
+}
+.pageNavLink
+{
+    color: white;
+    padding-top: 18px;
+    text-align: center;
+}
+.pageActiveNavLink
+{
+    padding-top: 18px;
+    text-align: center;
+}
+.logoImg
+{
+    width: 80%;
+}
